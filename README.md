@@ -20,7 +20,13 @@ to fast, accessible websites.
 <p align="right"><a href="https://michal-sweets.github.io"><b>Live site</b></a> · <a href="https://github.com/michal-sweets/michal-sweets.github.io">Code</a></p>
 
 <img src="assets/card-klita.png" alt="קליטת התחייבויות – commercial software that reads scanned commitment forms and exports to Excel" width="100%">
-<p align="right"><b>Commercial product</b> · source code is private · demo on request</p>
+
+<a href="https://github.com/chana-jobs/chana-jobs/raw/main/assets/klita-promo.mp4"><img src="assets/klita-preview.gif" alt="Product demo: scan, automatic detection, review and Excel export" width="100%"></a>
+<p align="right">
+  <a href="https://github.com/chana-jobs/chana-jobs/raw/main/assets/klita-promo.mp4"><b>▶ Watch the full video</b></a><br>
+  <b>Commercial product</b> · source code is private · for a demo:
+  <a href="mailto:cjob78971@gmail.com">cjob78971@gmail.com</a> · 054-8478971
+</p>
 
 <a href="https://github.com/chana-jobs/labextract-ai"><img src="assets/card-labextract.png" alt="LabExtract AI – lab forms to Excel with Hebrew OCR" width="100%"></a>
 <p align="right"><a href="https://labextract-ai-orpin.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/chana-jobs/labextract-ai">Code</a></p>
@@ -33,6 +39,12 @@ to fast, accessible websites.
 ## Toolbox
 
 <img src="assets/toolbox.png" alt="Languages: Python, JavaScript, C++, HTML, CSS, SQL · Frameworks & AI: React, Flask, TensorFlow, Keras, OCR · Data & Cloud: Supabase, SQL Server, Docker, Vercel, GitHub Pages · Hardware: ESP32, Arduino, sensors, IoT" width="100%">
+
+<br>
+
+## Contact
+
+📧 <a href="mailto:cjob78971@gmail.com">cjob78971@gmail.com</a> &nbsp;·&nbsp; 📞 054-8478971
 
 <br>
 
