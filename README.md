@@ -29,21 +29,7 @@ to fast, accessible websites.
 
 ## Toolbox
 
-<p>
-  <img src="https://img.shields.io/badge/Python-15122E?style=for-the-badge&logo=python&logoColor=8E78FF" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-15122E?style=for-the-badge&logo=javascript&logoColor=8E78FF" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C++-15122E?style=for-the-badge&logo=cplusplus&logoColor=8E78FF" alt="C++">
-  <img src="https://img.shields.io/badge/HTML5-15122E?style=for-the-badge&logo=html5&logoColor=8E78FF" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-15122E?style=for-the-badge&logo=css&logoColor=8E78FF" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-15122E?style=for-the-badge&logo=react&logoColor=8E78FF" alt="React">
-  <img src="https://img.shields.io/badge/Flask-15122E?style=for-the-badge&logo=flask&logoColor=8E78FF" alt="Flask">
-  <img src="https://img.shields.io/badge/TensorFlow-15122E?style=for-the-badge&logo=tensorflow&logoColor=8E78FF" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Docker-15122E?style=for-the-badge&logo=docker&logoColor=8E78FF" alt="Docker">
-  <img src="https://img.shields.io/badge/Supabase-15122E?style=for-the-badge&logo=supabase&logoColor=8E78FF" alt="Supabase">
-  <img src="https://img.shields.io/badge/SQL_Server-15122E?style=for-the-badge&logo=microsoftsqlserver&logoColor=8E78FF" alt="SQL Server">
-  <img src="https://img.shields.io/badge/ESP32-15122E?style=for-the-badge&logo=espressif&logoColor=8E78FF" alt="ESP32">
-  <img src="https://img.shields.io/badge/Git-15122E?style=for-the-badge&logo=git&logoColor=8E78FF" alt="Git">
-</p>
+<img src="assets/toolbox.png" alt="Languages: Python, JavaScript, C++, HTML, CSS, SQL · Frameworks & AI: React, Flask, TensorFlow, Keras, OCR · Data & Cloud: Supabase, SQL Server, Docker, Vercel, GitHub Pages · Hardware: ESP32, Arduino, sensors, IoT" width="100%">
 
 <br>
 
