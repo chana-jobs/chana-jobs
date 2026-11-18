@@ -19,6 +19,9 @@ to fast, accessible websites.
 <a href="https://michal-sweets.github.io"><img src="assets/card-michal.png" alt="Michal · Whipped Sweets – Hebrew RTL landing page" width="100%"></a>
 <p align="right"><a href="https://michal-sweets.github.io"><b>Live site</b></a> · <a href="https://github.com/michal-sweets/michal-sweets.github.io">Code</a></p>
 
+<img src="assets/card-klita.png" alt="קליטת התחייבויות – commercial software that reads scanned commitment forms and exports to Excel" width="100%">
+<p align="right"><b>Commercial product</b> · source code is private · demo on request</p>
+
 <a href="https://github.com/chana-jobs/labextract-ai"><img src="assets/card-labextract.png" alt="LabExtract AI – lab forms to Excel with Hebrew OCR" width="100%"></a>
 <p align="right"><a href="https://labextract-ai-orpin.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/chana-jobs/labextract-ai">Code</a></p>
 
